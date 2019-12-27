@@ -1,1 +1,1 @@
-# mm-ionic
+# MM React Native
